@@ -1,0 +1,97 @@
+// primaryColor: 42f4ce
+// secondaryColor : 10b581
+// actionColor: 0cffcb
+// primaryBlack: 1f1f25
+// secondaryBlack: 17171b
+// actionBlack: 111111
+
+{
+	"tokenColors": "./Dracula.tmTheme",
+	"colors": {
+
+		// Base
+		"foreground": "#ffffff",
+		"selection.background": "#26efc5",
+		
+		// Textlink
+		"textLink.foreground": "#10b581",
+		"textLink.activeForeground": "#27ba9a",
+		"pickerGroup.foreground": "#10b581",
+
+		// Editor
+		"editor.foreground": "#ffffff",
+		"editorWhitespace.foreground": "#4d4d4d",
+		"editor.lineHighlightBackground": "#111111",
+		"editor.selectionBackground": "#4d4d4d",
+		// "editor.selectionBackground": "#27ba9a",
+		"editor.background": "#1f1f25",
+		"editorCursor.foreground": "#10b581",
+		"editor.selectionHighlightBackground": "#10b581",
+		"editor.findMatchBackground": "#10b581",
+		"editor.findMatchHighlightBackground": "#06593f",
+		"editorBracketMatch.border": "#10b581",
+
+		// Button
+		"button.background": "#10b581",
+		"button.hoverBackground": "#27ba9a",
+
+		// Statusbar
+		"statusBar.background": "#111111",
+		"statusBar.noFolderBackground": "#27ba9a",
+		"statusBar.foreground": "#ffffff",
+
+		// Input Control
+		"input.background": "#1f1f25",
+		"input.border": "#27ba9a",
+		"inputOption.activeBorder": "#10b581",
+
+		// Scroll Bar Control
+		"scrollbarSlider.background": "#27ba9a",
+		"scrollbarSlider.activeBackground": "#10b581",
+		"scrollbarSlider.hoverBackground": "#26efc5", 
+
+		// Badge
+		"badge.background": "#10b581",
+		"badge.foreground": "#ffffff",
+
+		// Progressbar
+		"progressBar.background": "#10b581", 
+
+		// Lists and Trees
+		"list.activeSelectionBackground": "#27ba9a",
+		"list.focusBackground": "#27ba9a",
+		"list.dropBackground": "#10b581",
+		"list.hoverBackground": "#27ba9a",
+		"list.inactiveSelectionBackground": "#27ba9a",
+
+		// Activitybar
+		"activityBar.background": "#17171b",
+		"activityBar.foreground": "#10b581",
+		"activityBar.border": "#111",
+		"activityBarBadge.background": "#10b581",
+		"activityBarBadge.foreground": "#ffffff",
+
+		// Sidebar
+		"sideBar.background": "#17171b",
+
+		// Editor Groups & Tabs
+		"editorGroup.border": "#10b581", 
+		"tab.activeBackground": "#27ba9a",
+		"tab.activeBorder": "#27ba9a",
+		"editorLink.activeForeground": "#10b581",
+
+		// Editor Gutter
+		"diffEditor.insertedTextBackground": "#24c41638",
+
+		// Peek View
+		"peekViewEditor.background": "#17171b",
+		"peekViewEditorGutter.background": "#17171b",
+		"peekViewResult.selectionBackground": "#17171b",
+		"peekViewEditor.matchHighlightBackground": "#06593f",
+
+		// Panels
+		"panel.background": "#17171b",
+		"panelTitle.activeBorder": "#10b581"
+	},
+	"name": "RedNeon"
+}

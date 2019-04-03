@@ -1,0 +1,33 @@
+{
+	"name": "turquoisewave",
+	"displayName": "Turquoise Wave",
+	"description": "VSCode TurquoiseWave Theme, to make your editor look more fresh and turquoise",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Futureglobe/TurquoiseWave"
+	},
+	"homepage": "http://futureglobe.de/",
+	"icon": "images/themeIcon.png",
+	"publisher": "Futureglobe",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "TurquoiseWave",
+				"uiTheme": "vs-dark",
+				"path": "./themes/turquoisewave-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "2da18921-b070-4adc-89f6-3bfdeaca5295",
+		"publisherId": "5885ca33-a882-41e0-8a50-7bfbb17d1f1a",
+		"publisherDisplayName": "Futureglobe"
+	}
+}
